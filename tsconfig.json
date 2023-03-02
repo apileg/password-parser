@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "out",
+    "module": "es6",
+    "moduleResolution": "node"
+  }
+}

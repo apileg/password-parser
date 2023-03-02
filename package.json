@@ -1,0 +1,23 @@
+{
+  "name": "password-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "password_parser.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.6.0",
+    "ts-functional-pipe": "^3.1.2",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.12",
+    "typescript": "^4.9.4",
+    "webpack-cli": "^5.0.1"
+  }
+}
